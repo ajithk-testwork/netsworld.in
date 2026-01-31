@@ -1,16 +1,39 @@
-# React + Vite
+NetsWorld – The Invisible Shield
+!(https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2653&auto=format&fit=crop)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NetsWorld is a premium web application designed for a Chennai-based leader in insect screen solutions. We believe that home safety should be felt, not seen. This project showcases high-end mosquito protection systems that honor modern architecture while providing an impenetrable barrier against pests.
 
-Currently, two official plugins are available:
+🚀 Key Features
+Invisible Shield Slider: A custom-built before-and-after comparison tool allowing users to visualize the difference between traditional mesh and our nanotechnology screens.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Premium Product Gallery: An interactive showcase of luxury sliding meshes, motorised automation, and invisible window grills.
 
-## React Compiler
+High-Conversion Quote System: A mobile-optimized, glassmorphism-styled popup modal for booking free site measurements.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Responsive Performance: Built with Vite for lightning-fast load times and a "Mobile-First" design philosophy.
 
-## Expanding the ESLint configuration
+Smooth Motion UI: Powered by Framer Motion for elegant transitions that reflect the "White Glove" service of the brand.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+Frontend: React.js
+
+Build Tool: Vite
+
+Styling: Tailwind CSS
+
+Animations: Framer Motion
+
+Icons: Lucide React
+
+📸 Component Highlights
+1. Interactive Comparison Slider
+The slider uses a custom clip-path logic to reveal a 0.2mm Nano-Fiber mesh overlay. It includes realistic grid patterns and "Standard vs. NetsWorld" toggle labels.
+
+2. Luxury Quote Modal
+Designed with a "Mobile-First" approach, the modal features:
+
+Sticky Close Button: Ensures easy navigation on small screens.
+
+Glassmorphism Effects: Uses backdrop-blur for a premium, modern feel.
+
+Success Feedback: An animated state showing a "Request Received" confirmation.
